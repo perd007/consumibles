@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_al" value="name:id_almacen;datatype:int,name:fecha;datatype:date,name:consumible;datatype:string,name:cantidad;datatype:int,name:observaciones;datatype:string" />
+	<infoitem key="UD_co" value="name:id_copnsumible;datatype:int,name:tipo;datatype:string,name:marca;datatype:string,name:modelo;datatype:string,name:color;datatype:string,name:impresora;datatype:string" />
+</info>

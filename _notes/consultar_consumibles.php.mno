@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_con" value="name:id_copnsumible;datatype:int,name:tipo;datatype:string,name:marca;datatype:string,name:modelo;datatype:string,name:color;datatype:string,name:impresora;datatype:string" />
+</info>
